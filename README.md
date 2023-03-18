@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 𝑨𝒃𝒉𝒊𝒏𝒂𝒗 ♪</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavvgusainn&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavvgusainn" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinavvgusainn" alt="abhinavvgusainn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhinavvgusainn" target="blank"><img src="https://img.shields.io/twitter/follow/abhinavvgusainn?logo=twitter&style=for-the-badge" alt="abhinavvgusainn" /></a> </p>
 
@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavvgusainn&show_icons=true&locale=en&layout=compact" alt="abhinavvgusainn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavvgusainn&show_icons=true&locale=en" alt="abhinavvgusainn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavvgusainn&" alt="abhinavvgusainn" /></p>
